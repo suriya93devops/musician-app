@@ -6,4 +6,4 @@ phases:
       - echo "installing the phrases" 
   build:
     commands:
-      - find production.txt
+      - echo "production.txt"
